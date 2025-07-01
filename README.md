@@ -99,7 +99,7 @@ double temp = main.getDouble("temp");
 double feelsLike = main.getDouble("feels_like");
 String description = json.getJSONArray("weather").getJSONObject(0).getString("description");
 
-5. Formatted Output
+4. Formatted Output
 Displays the fetched weather details in a human-readable format:
 
 --- Weather Report ---
