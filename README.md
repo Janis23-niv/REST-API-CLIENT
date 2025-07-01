@@ -134,3 +134,4 @@ System.out.println("❌ Error fetching weather data: " + e.getMessage());
 
 ### Output
 
+![Image](https://github.com/user-attachments/assets/c1bc08dc-78ff-48dd-95bc-886bc118b197)
