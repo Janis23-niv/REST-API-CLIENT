@@ -115,9 +115,6 @@ Handles exceptions gracefully and displays error messages.
 System.out.println("API Error: " + message);
 System.out.println("❌ Error fetching weather data: " + e.getMessage());
 
-✅ Output
-
-
 
 📦 How to Run (Using BlueJ)
 
@@ -134,3 +131,6 @@ System.out.println("❌ Error fetching weather data: " + e.getMessage());
 • Enter a city name when prompted.
 
 • View weather data in the console.
+
+### Output
+
